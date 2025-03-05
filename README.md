@@ -25,12 +25,12 @@ If you want Adreno and Mali drivers and several small prerequisites to be instal
 <p></p>
 <b>Adreno Driver:</b>
 <pre class="wp-block-code">
-  <code>git clone https://github.com/zevenoxxx/DXWAP/Adreno </code>
+  <code>git clone https://github.com/zevenoxxx/DXWAP/Adreno_Driver.tar.gz </code>
 </pre>
 <p></p>
 <b>Mali Driver:</b>
 <pre class="wp-block-code">
-  <code>git clone https://github.com/zevenoxxx/DXWAP/Mali </code>
+  <code>git clone https://github.com/zevenoxxx/DXWAP/Mali-Driver.tar.gz </code>
 </pre>
 Finally, restart your device to apply the changes.
 <p></p>
